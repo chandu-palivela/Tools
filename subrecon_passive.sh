@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Script to find LIVE sub-domains of a given domain using subfinder, assetfinder, amass, shodan (API key needed) and censys (API key + API secret needed)
 # Load config
 CONFIG_FILE="./config.conf"
 
